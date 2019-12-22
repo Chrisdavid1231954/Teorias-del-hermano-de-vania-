@@ -85,8 +85,8 @@ body h1{
     .contenedor{
         font-size: large;
         box-sizing: border-box;
-        width: 100%;
-      
+        width: 98%;
+      margin-left: 2%;
     }
 
 
